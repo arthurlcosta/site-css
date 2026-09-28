@@ -1,0 +1,106 @@
+*{
+    text-align: center;
+    margin: 0;
+}
+body{
+    background-color: rgb(247, 211, 211);
+
+}
+.header {
+
+ display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 15px ;
+  background-color: #000000;
+  color: #ffffff;
+
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    
+    
+}
+
+h1{
+    color: white;
+    font-family:Arial, Helvetica, sans-serif; 
+
+}
+
+span{
+    color: red;
+    font-family: initial;
+    font-size: 15px;
+}
+
+h2{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.b{
+    background-color:gold;
+    border-radius: 9px;
+    border: 3px solid rgb(184, 157, 6);
+}
+.hino{
+    color: #f40606;
+    font-size: 20px;
+    
+}
+
+.luciano{
+    background-color: rgba(0, 0, 0, 0.815);
+    border-radius:4px;
+    text-align: center;
+    
+   
+}
+.calleri{
+    color: gold;
+    padding: 9px;
+}
+.ceni{
+    color: red;
+    padding: 9px;
+}
+
+
+.rai{
+    color: white;
+    padding: 9px;
+}
+.zetti{
+    color: #ffffff;
+    padding: 9PX ;
+    
+}
+.paulo{
+    color: #f10606;
+    font-size:40px;
+}
+.fc{
+    color: #000000;
+    font-size:40px ;
+}
+.nome{
+    color: #f10606;
+}
+.historia{
+    font-size: 17px;
+    
+}
+p{
+    margin: 15px;
+}
+footer{
+    text-align: left;
+}
+img{
+    height: 300px;
+}
+
